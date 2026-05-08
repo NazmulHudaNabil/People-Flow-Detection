@@ -3,7 +3,9 @@
 # Module 16 — People Flow Detection
 ### Object Tracking + Heatmap Visualization
 
-https://github.com/user-attachments/assets/1b748270-b330-42f8-b776-1899f77cb4ba
+
+<img width="1920" height="1080" alt="heatmap" src="https://github.com/user-attachments/assets/9501af7e-8499-4102-b6b5-6c990d9e6f67" />
+
 
 ---
 
